@@ -1,3 +1,3 @@
-### I'm Ben :)
+Hi, I'm Ben :)
 
-This is my GitHub
+Welcome to my GitHub :)
